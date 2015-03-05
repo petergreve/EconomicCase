@@ -1,0 +1,24 @@
+﻿<div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2>New Project</h2>
+        </div>
+    </div>
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-md-12">
+            <form name="newProjectForm" novalidate data-ng-submit="save()">
+                <div class="form-group">
+                    <label for="inputTitle">Name</label>
+                    <input type="text" class="form-control" id="inputTitle" placeholder="Enter name" data-ng-model="newProject.name" required>
+                </div>
+
+                <button type="submit" class="btn btn-default" data-ng-disabled="newProjectForm.$invalid">Save</button>
+                <a href="#/"class="btn btn-default">Cancel</a>
+
+            </form>
+
+        </div>
+
+    </div>
+ </div>

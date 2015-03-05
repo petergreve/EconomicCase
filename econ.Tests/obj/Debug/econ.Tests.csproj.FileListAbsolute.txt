@@ -1,0 +1,172 @@
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\econ.Tests.dll.config
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\econ.Tests.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\econ.Tests.pdb
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\econ.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Spatial.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Http.OData.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\EntityFramework.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\econ.pdb
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Web.Http.OData.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\System.Spatial.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\EntityFramework.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\obj\Debug\econ.Tests.csprojResolveAssemblyReference.cache
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\obj\Debug\econ.Tests.dll
+C:\Users\peg\documents\visual studio 2013\Projects\econ\econ.Tests\obj\Debug\econ.Tests.pdb
+C:\Development\econ\econ.Tests\obj\Debug\econ.Tests.csprojResolveAssemblyReference.cache
+C:\Development\econ\econ.Tests\obj\Debug\econ.Tests.dll
+C:\Development\econ\econ.Tests\obj\Debug\econ.Tests.pdb
+C:\Development\econ\econ.Tests\bin\Debug\econ.Tests.dll.config
+C:\Development\econ\econ.Tests\bin\Debug\econ.Tests.dll
+C:\Development\econ\econ.Tests\bin\Debug\econ.Tests.pdb
+C:\Development\econ\econ.Tests\bin\Debug\econ.dll
+C:\Development\econ\econ.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Development\econ\econ.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Development\econ\econ.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Development\econ\econ.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Development\econ\econ.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Development\econ\econ.Tests\bin\Debug\Ninject.dll
+C:\Development\econ\econ.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Development\econ\econ.Tests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Spatial.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Http.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Http.OData.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Razor.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Development\econ\econ.Tests\bin\Debug\WebActivatorEx.dll
+C:\Development\econ\econ.Tests\bin\Debug\WebApiContrib.IoC.Ninject.dll
+C:\Development\econ\econ.Tests\bin\Debug\EntityFramework.dll
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Development\econ\econ.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Development\econ\econ.Tests\bin\Debug\econ.pdb
+C:\Development\econ\econ.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Development\econ\econ.Tests\bin\Debug\Ninject.xml
+C:\Development\econ\econ.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Development\econ\econ.Tests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Http.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Razor.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Web.Http.OData.xml
+C:\Development\econ\econ.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Development\econ\econ.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Development\econ\econ.Tests\bin\Debug\System.Spatial.xml
+C:\Development\econ\econ.Tests\bin\Debug\EntityFramework.xml
+C:\Development\econ\econ.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Development\econ\econ.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Development\econ\econ.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Development\econ\econ.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
